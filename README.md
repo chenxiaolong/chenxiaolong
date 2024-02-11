@@ -2,6 +2,8 @@
 
 All signed commits, tags, and artifacts I create are signed with one of the following keys. Starting in 2023, unless GPG is required, most things will be signed with the SSH key.
 
+This repo is pushed to [Codeberg](https://codeberg.org/chenxiaolong/chenxiaolong), [Gitlab](https://gitlab.com/chenxiaolong/chenxiaolong), and [Github](https://github.com/chenxiaolong/chenxiaolong). All three repos should be identical and show commits signed with the keys below.
+
 ### SSH signing key
 
 * Public key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDOe6/tBnO7xZhAWXRj3ApUYgn+XZ0wnQiXM8B7tPgv4`
