@@ -5,7 +5,7 @@ There are many issues I have with AI, but in the context of my projects, I do no
 This is what can be expected for my projects:
 
 * Issues and PRs that (subjectively) appear to contain AI generated content will be closed and may result in a warning or ban, depending on how close it is to AI slop.
-    * This does not include people who are asking for help because they followed AI instructions/suggestions that did not work. Just avoid copying copying and pasting some giant blob of AI output.
+    * This does not include people who are asking for help because they followed AI instructions/suggestions that did not work. Just avoid copying and pasting some giant blob of AI output.
 
 * Where possible, dependencies containing less AI-generated code will be preferred over dependencies that contain more.
 
